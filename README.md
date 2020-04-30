@@ -3,7 +3,14 @@
 </p>
 
 # ThemeKit
-A unified macOS theming platform
+
+The Unified MacOS Themeing Platform.
+<p align="center">
+  <a href="https://github.com/ThemeKitApp/ThemeKit/issues" align="center"><img src="https://img.shields.io/github/issues/ThemeKitApp/ThemeKit"></a>
+  <a href="https://github.com/ThemeKitApp/ThemeKit/network" align="center"><img src="https://img.shields.io/github/forks/ThemeKitApp/ThemeKit"></a>
+  <a href="https://github.com/ThemeKitApp/ThemeKit/stargazers" align="center"><img src="https://img.shields.io/github/stars/ThemeKitApp/ThemeKit"></a>
+  <a href="" align="center"><img src="https://img.shields.io/badge/Version-1.0.3-informational"></a>
+</p>
 
 # What is ThemeKit?
 
