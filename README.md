@@ -1,15 +1,34 @@
 # ThemeKit
 A unified macOS theming platform
 
-<a align="right"><img src="https://media.discordapp.net/attachments/603653696030507023/698270363263434752/Screen_Shot_2020-04-10_at_4.34.27_PM.png?width=876&height=702" width="300px"></a>
 # What is ThemeKit?
-
-ThemeKit is a macOS application that allows you to apply custom built themes to your applications. The goal is to mimic a theme manager from the iOS jailbreaking community which allows you to easily map icons with a bundle ID and distribute easily. Themes are currently sparse but will eventually be available at [The Official ThemeKit Store](https://themekit.io) for a varying range of prices.
 <a align="right"><img src="https://media.discordapp.net/attachments/603653696030507023/698270367050891425/Screen_Shot_2020-04-10_at_4.33.58_PM.png?width=876&height=702" width="300px"></a>
 
-If you would like to read more about why ThemeKit requires SIP being disabled read [here](https://github.com/MTACS/ThemeKit#sip-and-permissive-information).
+ThemeKit is a macOS application that allows you to 
+
+apply custom built themes to your applications. 
+
+The goal is to mimic a theme manager from the iOS 
+
+jailbreaking community which allows you to
+
+map icons with a bundle ID and distribute easily.
+
+Themes are currently sparse but will eventually be 
+
+available at [The Official ThemeKit Store](https://themekit.io) 
+
+for a varying range of prices.
+
+
+
+If you would like to read more about why ThemeKit 
+requires SIP being disabled read [here](https://github.com/MTACS/ThemeKit#sip-and-permissive-information).
+
 
 If you'd like to convert an iOS theme for ThemeKit please check out Joseph Shenton's [zTheme Converter](https://github.com/JosephShenton/zTheme). We also have documentation on how to create your own bundles. The wiki is currently in progress but for now refer to [here for more info](https://github.com/MTACS/ThemeKit/wiki/Bundling-a-theme).
+<a align="right"><img src="https://media.discordapp.net/attachments/603653696030507023/698270363263434752/Screen_Shot_2020-04-10_at_4.34.27_PM.png?width=876&height=702" width="300px" alt="light"></a>
+
 # Installation
 
 ### Getting Started
