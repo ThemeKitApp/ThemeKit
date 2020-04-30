@@ -1,3 +1,5 @@
+<a align="center" href="https://themekit.io" target="_blank"><img src="https://themekit.io/assets/ThemeKit.png" width="350px" height="350px"></a>
+
 # ThemeKit
 A unified macOS theming platform
 
