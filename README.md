@@ -10,6 +10,9 @@ The Unified MacOS Themeing Platform.
   <a href="https://github.com/ThemeKitApp/ThemeKit/network" align="center"><img src="https://img.shields.io/github/forks/ThemeKitApp/ThemeKit"></a>
   <a href="https://github.com/ThemeKitApp/ThemeKit/stargazers" align="center"><img src="https://img.shields.io/github/stars/ThemeKitApp/ThemeKit"></a>
   <a href="" align="center"><img src="https://img.shields.io/badge/Version-1.0.3-informational"></a>
+  <br>
+  <a href="" align="center"><img src="https://img.shields.io/twitter/follow/themekitapp?style=social"></a>
+
 </p>
 
 # What is ThemeKit?
