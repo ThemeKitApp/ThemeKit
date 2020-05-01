@@ -42,16 +42,7 @@ First, visit [the Releases page](https://github.com/MTACS/ThemeKit/releases) to 
 
 First you must disable SIP. This is required since we are temporarily modifying system files and in order to have access to their asset metadata we must unlock SIP or macOS complains. *Re-enabling SIP will mess up your setup and themes so you should revert any theme changes before re-enabling!*
 
-If you are on Catalina (10.15+) you must run `sudo mount -uw /` after disabling SIP and rebooting.
-
-Next run:
-
-```
-sudo chmod -R 757 /System/Applications/
-sudo chmod -R 757 /Applications/
-# This should fix the Finder icon. It worked for me
-sudo chmod -R 757 /System/Library/CoreServices/Finder.app
-```
+Now run the `ThemeKit.pkg` application and go through the installation steps. If it fails run `csrutil status` and confirm your SIP has been disabled. 
 
 You are now ready to run ThemeKit and start applying themes!
 
