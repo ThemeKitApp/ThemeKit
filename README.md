@@ -47,8 +47,10 @@ If you are on Catalina (10.15+) you must run `sudo mount -uw /` after disabling 
 Next run:
 
 ```
-chmod -R 757 /System/Applications/
-chmod -R 757 /Applications/
+sudo chmod -R 757 /System/Applications/
+sudo chmod -R 757 /Applications/
+# This should fix the Finder icon. It worked for me
+sudo chmod -R 757 /System/Library/CoreServices/Finder.app
 ```
 
 You are now ready to run ThemeKit and start applying themes!
