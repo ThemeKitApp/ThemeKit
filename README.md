@@ -28,7 +28,7 @@ If you'd like to convert an iOS theme for ThemeKit please check out Joseph Shent
 <p align="center>
   <p align="center"><a align="center"><img src="https://github.com/ThemeKitApp/ThemeKit/blob/master/images/dark1.png" alt="dark></a></p>
   
-  <p align="center"><a align="center"><img src="https://media.discordapp.net/attachments/603653696030507023/698270363263434752/Screen_Shot_2020-04-10_at_4.34.27_PM.png?width=438&height=351" alt="light"></a></p>
+  <p align="center"><a align="center"><img src="https://github.com/ThemeKitApp/ThemeKit/blob/master/images/light1.png" alt="light"></a></p>
 </p>
 
 # Installation
