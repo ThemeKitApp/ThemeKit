@@ -26,9 +26,9 @@ requires SIP being disabled read [here](https://github.com/MTACS/ThemeKit#sip-an
 If you'd like to convert an iOS theme for ThemeKit please check out Joseph Shenton's [zTheme Converter](https://github.com/JosephShenton/zTheme). We also have documentation on how to create your own bundles. The wiki is currently in progress but for now refer to [here for more info](https://github.com/MTACS/ThemeKit/wiki/Bundling-a-theme).
 
 <p align="center>
-  <p align="center"><a align="center"><img src="https://github.com/ThemeKitApp/ThemeKit/blob/master/images/dark1.png" alt="dark></a></p>
+  <p align="center"><a align="center"><img src="https://github.com/ThemeKitApp/ThemeKit/blob/master/images/dark.png" alt="dark></a></p>
   
-  <p align="center"><a align="center"><img src="https://github.com/ThemeKitApp/ThemeKit/blob/master/images/light1.png" alt="light"></a></p>
+  <p align="center"><a align="center"><img src="https://github.com/ThemeKitApp/ThemeKit/blob/master/images/light.png" alt="light"></a></p>
 </p>
 
 # Installation
