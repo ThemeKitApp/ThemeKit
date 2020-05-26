@@ -23,7 +23,7 @@ ThemeKit is a macOS application that allows you to apply custom built themes to 
 If you would like to read more about why ThemeKit 
 requires SIP being disabled read [here](https://github.com/ThemeKitApp/ThemeKit#sip-and-permissive-information).
 
-If you'd like to convert an iOS theme for ThemeKit please check out Joseph Shenton's [zTheme Converter](https://github.com/JosephShenton/zTheme). We also have documentation on how to create your own bundles. The wiki is currently in progress but for now refer to [here for more info](https://github.com/ThemeKitApp/ThemeKit/wiki).
+We have documentation on how to create your own bundles. The wiki is currently in progress but for now refer to [here for more info](https://github.com/ThemeKitApp/ThemeKit/wiki).
 
 <p align="center>
   <p align="center"><a align="center"><img src="https://github.com/ThemeKitApp/ThemeKit/blob/master/images/dark.png" alt="dark></a></p>
